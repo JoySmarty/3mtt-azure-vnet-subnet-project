@@ -68,14 +68,17 @@ The environment consists of:
 ## Repository Structure
 3mtt-azure-vnet-subnet-project/
 │
+├── README.md
 ├── ARCHITECTURE.md
 ├── deployment.md
 ├── configuration.md
 ├── troubleshooting.md
 ├── monitoring-scaling.md
 │
+├── diagrams/
+│
+│
 └── screenshots/
-
 
 ---
 
